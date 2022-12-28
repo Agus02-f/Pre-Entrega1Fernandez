@@ -6,7 +6,7 @@ while (ProductoUSevicioIngresado !== 'Siguiente') {
     ProductoUSevicioIngresado = prompt('Ingrese el nombre del producto u servicio, para terminar ingrese Siguiente');
 }
 
-alert('La lista de nombre ingresado es: ' + ProductoUSevicioIngresado);
+alert('La lista de nombre ingresado es: ' + ListaDeProductosOServicios);
 
 total = 0
 
